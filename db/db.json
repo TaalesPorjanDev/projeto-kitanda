@@ -1,0 +1,304 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Banana Prata",
+      "categoria": "Hortifruti",
+      "preco": 5.99,
+      "unidade": "kg",
+      "descricao": "Banana prata fresca e madura",
+      "imagem": "/img/banana-prata.png",
+      "disponivel": true
+    },
+    {
+      "id": 2,
+      "nome": "Maçã Fuji",
+      "categoria": "Hortifruti",
+      "preco": 8.99,
+      "unidade": "kg",
+      "descricao": "Maçã fuji crocante e doce",
+      "imagem": "/img/maca-fuji.png",
+      "disponivel": true
+    },
+    {
+      "id": 3,
+      "nome": "Laranja Pera",
+      "categoria": "Hortifruti",
+      "preco": 4.50,
+      "unidade": "kg",
+      "descricao": "Laranja pera para suco",
+      "imagem": "/img/laranja-pera.png",
+      "disponivel": true
+    },
+    {
+      "id": 4,
+      "nome": "Manga Tommy",
+      "categoria": "Hortifruti",
+      "preco": 7.99,
+      "unidade": "kg",
+      "descricao": "Manga tommy madura",
+      "imagem": "/img/manga-tomy.png",
+      "disponivel": true
+    },
+    {
+      "id": 5,
+      "nome": "Mamão Papaya",
+      "categoria": "Hortifruti",
+      "preco": 6.50,
+      "unidade": "kg",
+      "descricao": "Mamão papaya maduro",
+      "imagem": "/img/mamao-papaya.png",
+      "disponivel": true
+    },
+    {
+      "id": 6,
+      "nome": "Alface Crespa",
+      "categoria": "Hortifruti",
+      "preco": 3.50,
+      "unidade": "maço",
+      "descricao": "Alface crespa fresca",
+      "imagem": "/img/alface-crespa.png",
+      "disponivel": true
+    },
+    {
+      "id": 7,
+      "nome": "Tomate Salada",
+      "categoria": "Hortifruti",
+      "preco": 5.99,
+      "unidade": "kg",
+      "descricao": "Tomate para salada",
+      "imagem": "/img/tomate.png",
+      "disponivel": true
+    },
+    {
+      "id": 8,
+      "nome": "Cebola",
+      "categoria": "Hortifruti",
+      "preco": 4.99,
+      "unidade": "kg",
+      "descricao": "Cebola branca",
+      "imagem": "/img/cebola.png",
+      "disponivel": true
+    },
+    {
+      "id": 9,
+      "nome": "Batata Inglesa",
+      "categoria": "Hortifruti",
+      "preco": 5.50,
+      "unidade": "kg",
+      "descricao": "Batata inglesa",
+      "imagem": "/img/batata.png",
+      "disponivel": true
+    },
+    {
+      "id": 10,
+      "nome": "Cenoura",
+      "categoria": "Hortifruti",
+      "preco": 4.99,
+      "unidade": "kg",
+      "descricao": "Cenoura fresca",
+      "imagem": "/img/cenoura.png",
+      "disponivel": true
+    },
+    {
+      "id": 11,
+      "nome": "Abóbora Cabotiá",
+      "categoria": "Hortifruti",
+      "preco": 3.99,
+      "unidade": "kg",
+      "descricao": "Abóbora cabotiá",
+      "imagem": "/img/abobora-cabotia.png",
+      "disponivel": true
+    },
+    {
+      "id": 12,
+      "nome": "Pimentão Verde",
+      "categoria": "Hortifruti",
+      "preco": 9.99,
+      "unidade": "kg",
+      "descricao": "Pimentão verde fresco",
+      "imagem": "/img/pimentao-verde.png",
+      "disponivel": true
+    },
+    {
+      "id": 13,
+      "nome": "Pudim",
+      "categoria": "Rotisseria",
+      "preco": 32.90,
+      "unidade": "un",
+      "descricao": "Pudim de Leite Condensado",
+      "imagem": "/img/pudim.png",
+      "disponivel": true
+    },
+    {
+      "id": 14,
+      "nome": "Torta de Frango",
+      "categoria": "Rotisseria",
+      "preco": 35.00,
+      "unidade": "porção",
+      "descricao": "Torta de Frango",
+      "imagem": "img/torta-frango.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 15,
+      "nome": "Maionese de Legumes",
+      "categoria": "Rotisseria",
+      "preco": 12.00,
+      "unidade": "Pote",
+      "descricao": "Maionese de Legumes",
+      "imagem": "/img/maionese-legumes.png",
+      "disponivel": true
+    },
+    {
+      "id": 16,
+      "nome": "Coxinha de Frango",
+      "categoria": "Salgados",
+      "preco": 6.50,
+      "unidade": "un",
+      "descricao": "Coxinha de frango catupiry",
+      "imagem": "/img/coxinha-frango.png",
+      "disponivel": true
+    },
+    {
+      "id": 17,
+      "nome": "Pastel de Carne",
+      "categoria": "Salgados",
+      "preco": 7.00,
+      "unidade": "un",
+      "descricao": "Pastel de carne moída",
+      "imagem": "/img/pastel.png",
+      "disponivel": true
+    },
+    {
+      "id": 18,
+      "nome": "Esfiha de Carne",
+      "categoria": "Salgados",
+      "preco": 5.50,
+      "unidade": "un",
+      "descricao": "Esfiha aberta de carne",
+      "imagem": "/img/esfiha.png",
+      "disponivel": true
+    },
+    {
+      "id": 19,
+      "nome": "Presunto Fatiado",
+      "categoria": "Frios",
+      "preco": 35.90,
+      "unidade": "kg",
+      "descricao": "Presunto fatiado premium",
+      "imagem": "/img/presunto.png",
+      "disponivel": true
+    },
+    {
+      "id": 20,
+      "nome": "Queijo Mussarela",
+      "categoria": "Frios",
+      "preco": 42.90,
+      "unidade": "kg",
+      "descricao": "Queijo mussarela fatiado",
+      "imagem": "/img/queijo.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 21,
+      "nome": "Mortadela Especial",
+      "categoria": "Frios",
+      "preco": 28.90,
+      "unidade": "kg",
+      "descricao": "Mortadela especial fatiada",
+      "imagem": "/img/mortadela.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 22,
+      "nome": "Marmita Executiva Pequena",
+      "categoria": "Marmitas",
+      "preco": 18.90,
+      "unidade": "un",
+      "descricao": "Arroz, feijão, bife e salada",
+      "imagem": "/img/marmita.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 23,
+      "nome": "Marmita Executiva Grande",
+      "categoria": "Marmitas",
+      "preco": 22.90,
+      "unidade": "un",
+      "descricao": "Frango grelhado com legumes",
+      "imagem": "/img/marmita.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 25,
+      "nome": "Bolo de Chocolate",
+      "categoria": "Confeitaria",
+      "preco": 45.00,
+      "unidade": "un",
+      "descricao": "Bolo de chocolate 1kg",
+      "imagem": "/img/bolo-chocolate.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 26,
+      "nome": "Bolo de Cenoura com Chocolate",
+      "categoria": "Confeitaria",
+      "preco": 65.00,
+      "unidade": "un",
+      "descricao": "Bolo de Cenoura com chocolate",
+      "imagem": "/img/bolo-cenoura.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 27,
+      "nome": "Bolo Formigueiro",
+      "categoria": "Confeitaria",
+      "preco": 38.00,
+      "unidade": "un",
+      "descricao": "Bolo de Formigueiro",
+      "imagem": "img/bolo-formigueiro.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 28,
+      "nome": "Suco de Laranja Natural",
+      "categoria": "Bebidas e Lanches Prontos",
+      "preco": 8.00,
+      "unidade": "un",
+      "descricao": "Suco de laranja 500ml",
+      "imagem": "/img/suco-laranja.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 29,
+      "nome": "Refrigerante Coca-Cola",
+      "categoria": "Bebidas e Lanches Prontos",
+      "preco": 6.50,
+      "unidade": "un",
+      "descricao": "Coca-Cola 2L",
+      "imagem": "/img/coca-cola.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 30,
+      "nome": "Lanche Natural de Frango",
+      "categoria": "Bebidas e Lanches Prontos",
+      "preco": 12.00,
+      "unidade": "un",
+      "descricao": "Lanche natural integral com frango",
+      "imagem": "/img/lanche-frango.jpg",
+      "disponivel": true
+    },
+    {
+      "id": 31,
+      "nome": "Água Mineral 500ml",
+      "categoria": "Bebidas e Lanches Prontos",
+      "preco": 2.50,
+      "unidade": "un",
+      "descricao": "Água mineral sem gás",
+      "imagem": "/img/agua-mineral.jpg",
+      "disponivel": true
+    }
+  ]
+}
