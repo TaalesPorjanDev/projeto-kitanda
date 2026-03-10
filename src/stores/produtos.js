@@ -21,9 +21,10 @@ export const useProdutosStore = defineStore('produtos', {
   actions: {
     async getProdutos() {
       this.loading = true;
+
       try {
-       const { data } = await api.get('/produtos');
-       this.produtos = data;
+        const { data } = await api.get('/db.json');
+        this.produtos = data.produtos;
       } catch(error) {
         this.error = 'Não foi possivel encontrar os produtos, tente novamente!'
       } finally {
